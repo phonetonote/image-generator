@@ -6,6 +6,8 @@ generate Stable Diffusion images straight from roam.
 
 # usage
 
+no signup required, just install the plugin and start generating images.
+
 after installing this plugin, you can generate an image from a block of text in two ways:
 
 - Command Palette (cmd + p) → Generate Image
