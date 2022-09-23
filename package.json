@@ -1,5 +1,5 @@
 {
-  "name": "generate-images",
+  "name": "image-generator",
   "author": {
     "name": "scott from ptn",
     "email": "support@phonetonote.com"
@@ -23,11 +23,13 @@
     "url": "git+https://github.com/phonetonote/generate-images.git"
   },
   "keywords": [
-    "generate images",
-    "stable diffusion",
     "image generator",
+    "stable diffusion",
     "image generation",
-    "text to image"
+    "text to image",
+    "stable diffusion image generator",
+    "stable diffusion",
+    "roam research"
   ],
   "devDependencies": {
     "@typescript-eslint/eslint-plugin": "^5.31.0",

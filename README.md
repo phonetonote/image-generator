@@ -8,8 +8,8 @@ generate Stable Diffusion images straight from roam.
 
 after installing this plugin, you can generate an image from a block of text in two ways:
 
-- Command Palette (cmd + p) → generate image
-- Block Context Menu (right blick on a block) → plugins → generate image
+- Command Palette (cmd + p) → Generate Image
+- Block Context Menu (right blick on a block) → plugins → Generate Image
 
 the text will be the prompt for the image.
 
