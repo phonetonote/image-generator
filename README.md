@@ -2,6 +2,8 @@
 
 generate Stable Diffusion images straight from roam.
 
+<video src="https://user-images.githubusercontent.com/1139703/191873385-db352955-f334-4cfe-930a-329157d768f4.mp4" controls="controls"></video>
+
 # usage
 
 after installing this plugin, you can generate an image from a block of text in two ways:
