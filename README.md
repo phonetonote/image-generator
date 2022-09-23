@@ -15,7 +15,7 @@ the text will be the prompt for the image.
 
 the image will be generated as a child, directly beneath the text.
 
-the generated image is hosted on a publicly readable cloudflare r2 bucket. the path and name of the image is randomly generated, and robots cannot crawl the bucket. this makes your images accessible and sharable by URL, but un-guessable by others.
+the generated image is hosted on a publicly readable cloudflare r2 bucket. the path and name of the image is randomly generated, and robots cannot crawl the bucket. this makes your images accessible and sharable by URL, but un-guessable by others. the cloudflare bucket is owned and operated by [phonetonote](https://phonetonote.com)
 
 we convert block refs to text and strip `[[` and `]]` from page references. text is trimmed to ~77 words, as the model does not perform well on prompts longer than that.
 
