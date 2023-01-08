@@ -27,7 +27,7 @@ if generating an image fails for any reason, including if the model thinks the p
 
 # model details
 
-this plugin uses [Replicate's Stable Diffusion v1.4 model](https://replicate.com/stability-ai/stable-diffusion) and is subject to the same usage rules.
+this plugin uses [Replicate's Stable Diffusion v2.0 model](https://replicate.com/stability-ai/stable-diffusion) and is subject to the same usage rules.
 
 ## Misuse, Malicious Use, and Out-of-Scope Use
 
